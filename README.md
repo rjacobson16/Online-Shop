@@ -1,6 +1,5 @@
 # Online-Shop
-Fake store based on ch. 7 Django by Example
-
+Fake store 
 
 integrates user account functionality
 
